@@ -1,4 +1,6 @@
+import time
 
+from tqdm import tqdm #pip install tqdm
 import winsound
 
 RED = '\033[31m'
@@ -10,19 +12,19 @@ def init():
         print(f"{RED}Please enter a number{RESET}")
         init()
     else:
-        countDown(int(start.lstrip("-")),getSign(int(start)))
+        countDown(int(start.lstrip("-")))
 
-def countDown(number: int, sign: str):
+def countDown(number: int):
+    pbar = tqdm(range(number)) #declare progress bar
+    pbar.update(number) #update progress bar max value to number
+    pbar.refresh() #refresh progress bar
     while number >= 0:
-        print((sign if number != 0 else "") + str(number))
+        pbar.n = number #set current progress bar value as number
+        pbar.refresh() #refresh progress bar
+        time.sleep(1) #sleep 1 second
         number -= 1
     winsound.Beep(1000, 500)
     print("Blaze off!")
-
-def getSign(number: int):
-    if number < 0:
-        return "-"
-    return ""
 
 init()
 
