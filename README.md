@@ -12,6 +12,15 @@ This repository contains my solutions for the **Chapter 4 Python Programming Cod
 
 ---
 
+## 🎤 Presentation Slide
+
+I also prepared a short presentation explaining the logic, improvements, and features.
+
+👉 **View the Slide:**  
+**[Click here to open the presentation](https://www.canva.com/design/DAG484aCEkI/11FF1JswWFzYxXgJoQCIxg/edit?utm_content=DAG484aCEkI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
+---
+
 ## 📂 Files & Features
 
 Below are all files and their respective improvements:
