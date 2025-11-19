@@ -6,7 +6,7 @@
 This repository contains my solutions for the **Chapter 4 Python Programming Code Challenge** for **UTM FAI (SAIA-1113)**.
 
 > **Note:**  
-> This code belongs to GitHub user **Xiaoming0313883 (Goh Sheng Kai)**.  
+> This code belongs to GitHub user **Xiaoming0313883**.  
 > If you have any questions… please **do not contact me** 😄  
 > Thank you!
 
@@ -31,7 +31,7 @@ Below are all files and their respective improvements:
 Simple and basic implementation.
 
 👉 **Easy.py**  
-https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/591e0a4fd1f96f6b95eb001df0dfcb1b22c8ef7b/Easy.py
+https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/f8e1d89b42099b3c53aeb7316e7ac6c8fd5155bb/Easy.py
 
 ---
 
@@ -39,13 +39,13 @@ https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/591e0a4fd1f96f6b95eb00
 
 | Feature | Description | Link |
 |--------|-------------|------|
-| **Function Creation** | Refactored using functions | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/a9bccb7592a599cb1377d05ce224341153b4b93f/Advance.py |
-| **Integer Checker** | Validates input to ensure it’s an integer | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/c4902816de9c606a94ad01a23a34a5b2d24bf87b/Advance.py |
-| **Colour Output** | Adds coloured text in terminal | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/a8482d220302f53f0a4abe55260b2f58235ac8da/Advance.py |
-| **Negative Number Support** | Allows counting from negative numbers | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/5e65952cbba5342fb44770d608ba683790d19a36/Advance.py |
-| **Sound Effects** | Plays sound at certain moments | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/034391c1448ee51d9578c9b57bc37a289f4ebfeb/Advance.py |
-| **Colour Progress Bar** | Adds a visual progress bar | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/6d07fefb763781f8800e12321de832dbe41bb139/Advance.py |
-| **Timer Counter** | Turns program into a countdown timer | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/e34b0ed032947407a36e05459e06f20a815c5428/Advance.py |
+| **Function Creation** | Refactored using functions | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/8dbded388451c42df6f5ad8c438ece8f75806459/Advance.py |
+| **Integer Checker** | Validates input to ensure it’s an integer | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/812cbd68b234a70d77fad67bbe3b88db6d410baa/Advance.py |
+| **Colour Output** | Adds coloured text in terminal | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/798cb3e22f1fc173f1cde205560fb5cf64c8b215/Advance.py |
+| **Negative Number Support** | Allows counting from negative numbers | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/0861cc8149dd91b2b9b5b5e037ad4269d5e30103/Advance.py |
+| **Sound Effects** | Plays sound at certain moments | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/761d72c8d43ce6dbba1a84d37a9c5135e92ee254/Advance.py |
+| **Colour Progress Bar** | Adds a visual progress bar | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/05d2d9e6d4f74d41765604630fbf8e12300572b2/Advance.py |
+| **Timer Counter** | Turns program into a countdown timer | https://github.com/Xiaoming0313883/CHP4CodeChallange/blob/6b27bd1db9493d878c8b2a678164a7aeff9cda07/Advance.py |
 
 ---
 
@@ -61,6 +61,6 @@ This repository includes experiments and improvements involving:
 - Timer/countdown logic  
 - Sound playback  
 
-Feel free to explore — but again… **no questions please 😂**
+Feel free to explore
 
 ---
