@@ -1,3 +1,6 @@
+
+import winsound
+
 RED = '\033[31m'
 RESET = '\033[0m'
 
@@ -13,6 +16,7 @@ def countDown(number: int, sign: str):
     while number >= 0:
         print((sign if number != 0 else "") + str(number))
         number -= 1
+    winsound.Beep(1000, 500)
     print("Blast off!")
 
 def getSign(number: int):
@@ -21,4 +25,5 @@ def getSign(number: int):
     return ""
 
 init()
+
 
