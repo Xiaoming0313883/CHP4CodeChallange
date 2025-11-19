@@ -6,6 +6,6 @@ start = int(input("Enter a number to start counting: "))
 while start >= 0:
     print(start) #print the counting number
     start-=1 #minus 1 after counted
-print("Blaze off!") #when the loop is end,
+print("Blast off!") #when the loop is end,
                     #mean that counted until
                     #zero
